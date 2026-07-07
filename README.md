@@ -61,7 +61,7 @@ Lower values are faster. Higher values can help tracks with long intros, quiet s
 
 ## 💬 Feedback or Questions?
 
-You can leave feedback [here on GitHub](https://github.com/MrBoxik/SnowRunner-Save-Editor/issues) — but I’m not going to be super active here.  
+You can leave feedback [here on GitHub](https://github.com/MrBoxik/bpm-finder/issues) — but I’m not going to be super active here.  
 
 You’ll have better chances of getting a reply if you message me on [Discord](https://discord.com/users/638802769393745950).
 
