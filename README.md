@@ -26,8 +26,6 @@ It is built for large folders, keeps the results readable in the app, and saves 
 - Seconds setting to control how much audio is scanned per file
 - Confidence score for each result
 - Clean Excel export with File, BPM, Confidence, and Status columns
-- Handles Unicode filenames much better than CSV exports in Excel
-- Bundled Windows `.exe` with app icon
 
 ---
 
