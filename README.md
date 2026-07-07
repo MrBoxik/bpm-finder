@@ -52,9 +52,11 @@ The app auto-picks a good default based on your logical CPU thread count. More w
 Lower values are faster. Higher values can help tracks with long intros, quiet sections, or unstable rhythm.
 
 ---
+
 <p align="center">
   <img src="https://github.com/MrBoxik/bpm-finder/blob/main/app/photo.png" alt="BPM finder demo" width="778"/>
 </p>
+
 ---
 
 ## 💬 Feedback or Questions?
