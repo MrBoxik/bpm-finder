@@ -67,30 +67,6 @@ Support is optional and appreciated.
 
 ---
 
-## Run From Source
-
-```powershell
-py -3 -m venv .venv
-.\.venv\Scripts\python.exe -m pip install -r requirements.txt
-.\.venv\Scripts\python.exe src\app.py
-```
-
----
-
-## Build The EXE
-
-```powershell
-.\build_exe.ps1
-```
-
-The bundled app is written to:
-
-```text
-dist\BPMFinder.exe
-```
-
----
-
 ## License
 
 This project is licensed under a **Custom Non-Commercial License**.
