@@ -10,7 +10,7 @@ It is built for large folders, keeps the results readable in the app, and saves 
 
 <p align="center">
 
-<a href="https://github.com/MrBoxik/bpm-finder/releases" style="font-size:20px;">
+<a href="https://github.com/MrBoxik/bpm-finder/releases/tag/1.0" style="font-size:20px;">
   <b>Download for Windows</b>
 </a>
 
