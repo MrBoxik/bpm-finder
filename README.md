@@ -53,7 +53,7 @@ Lower values are faster. Higher values can help tracks with long intros, quiet s
 
 ---
 <p align="center">
-  <img src="https://github.com/MrBoxik/bpm-finder/blob/main/photo.png" alt="BPM finder demo" width="778"/>
+  <img src="https://github.com/MrBoxik/bpm-finder/blob/main/app/photo.png" alt="BPM finder demo" width="778"/>
 </p>
 ---
 
